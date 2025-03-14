@@ -1,4 +1,4 @@
-module github.com/wizard2014/pixl
+module github.com/yevhenii-myronov/pixl
 
 go 1.18
 

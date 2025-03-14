@@ -8,7 +8,7 @@ import (
 	"fyne.io/fyne/v2/canvas"
 	"fyne.io/fyne/v2/driver/desktop"
 	"fyne.io/fyne/v2/widget"
-	"github.com/wizard2014/pixl/apptype"
+	"github.com/yevhenii-myronov/pixl/apptype"
 )
 
 type PxCanvasMouseState struct {

@@ -10,7 +10,7 @@ import (
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/dialog"
 	"fyne.io/fyne/v2/widget"
-	"github.com/wizard2014/pixl/util"
+	"github.com/yevhenii-myronov/pixl/util"
 )
 
 func saveFileDialog(app *AppInit) {

@@ -5,10 +5,10 @@ import (
 
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/app"
-	"github.com/wizard2014/pixl/apptype"
-	"github.com/wizard2014/pixl/pxcanvas"
-	"github.com/wizard2014/pixl/swatch"
-	"github.com/wizard2014/pixl/ui"
+	"github.com/yevhenii-myronov/pixl/apptype"
+	"github.com/yevhenii-myronov/pixl/pxcanvas"
+	"github.com/yevhenii-myronov/pixl/swatch"
+	"github.com/yevhenii-myronov/pixl/ui"
 )
 
 func main() {
